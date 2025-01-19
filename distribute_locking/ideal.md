@@ -19,12 +19,14 @@
 <br>
 
 ## Centralized Locking
+
 ![image](./images/image.png)
 
 - Simple to implement
 - Single point of failure
 
 ## Token-Base Locking
+
 ![image](./images/Screenshot_1.png)
 
 - Fault-tolerant
